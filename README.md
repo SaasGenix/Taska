@@ -1,4 +1,4 @@
-# Taska - The Ultimate SaaS-Based Todo List  
+# Taska - The Ultimate SaasGenix Todo List  
 
 Taska is a powerful, intuitive, and feature-rich task management solution designed for individuals and teams. Built with efficiency in mind, Taska helps users organize, prioritize, and accomplish their tasks seamlessly.  
 
